@@ -7,6 +7,7 @@ centos01 ansible_host=172.17.0.3 ansible_user=centos  ansible_password=Passw0rd 
 ubuntu01 ansible_host=172.17.0.2  ansible_user=ubuntu  ansible_password=Passw0rd ansible_ssh_extra_args='-o StrictHostKeyChecking=no'
 [centosremote]
 remote01 ansible_host=170.75.170.34  ansible_ssh_user=centos ansible_ssh_private_key=/home/centos/.ssh/id_rsa
+<<<<<<< HEAD
 =======
 [alpine]
 alpine01 ansible_host=172.17.0.4  ansible_user=root  ansible_password=Passw0rd ansible_ssh_extra_args='-o StrictHostKeyChecking=no' ansible_python_interpreter="/usr/bin/env python"
@@ -17,3 +18,5 @@ ubuntu01 ansible_host=172.17.0.2  ansible_user=ubuntu  ansible_password=Passw0rd
 [centosremote]
 remote01 ansible_host=170.75.170.34  ansible_ssh_user=centos ansible_ssh_private_key=/home/centos/.ssh/id_rsa
 >>>>>>> 6251a12db47ba3698f078857c6558a1738a33ca8
+=======
+>>>>>>> 1d99417 (ajout awx redme)

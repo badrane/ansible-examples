@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c06466ed-1121-4281-9358-dac240b4e14d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/awx/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="e36501df-1c1b-4287-a3d5-e3c61425d814" name="ajout awx redme" comment="ajout awx redme&#10;&#10;(cherry picked from commit 1d9941724c93bd0f0b2bd722170d6606fb092061)">
+      <changelist_data name="HOUMADI Badrane" email="badrane976@gmail.com" date="1615554113000" />
       <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory_children" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_children" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +123,7 @@
       <workItem from="1615190495313" duration="601000" />
       <workItem from="1615366005193" duration="2218000" />
       <workItem from="1615368445298" duration="21202000" />
-      <workItem from="1615536959159" duration="5007000" />
+      <workItem from="1615536959159" duration="6551000" />
     </task>
     <task id="LOCAL-00001" summary="minor changes">
       <created>1591282108822</created>
@@ -258,6 +259,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
